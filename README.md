@@ -1,5 +1,7 @@
 # InternetSpeedometer
 An internet speed gauge for your desk!
+
+This device takes periodic speedtests for your internet connection, and shows the data on a dial.
 ![Img](pic.png)
 
 **Basic concept came from this post:**
